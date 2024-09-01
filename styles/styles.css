@@ -6,22 +6,22 @@ body{
 
 @font-face {
     font-family: 'HelveticaNow';
-    src: url(/Fonts/HelveticaNowText-Regular.otf);
+    src: url(Fonts/HelveticaNowText-Regular.otf);
 }
 
 @font-face {
     font-family: 'HelveticaNowBold';
-    src: url(/Fonts/HelveticaNowText-Bold.otf);
+    src: url(Fonts/HelveticaNowText-Bold.otf);
 }
 
 @font-face {
     font-family: 'HelveticaNowLight';
-    src: url(/Fonts/HelveticaNowText-Light.otf)
+    src: url(Fonts/HelveticaNowText-Light.otf)
 }
 
 @font-face {
     font-family: 'HelveticaNowThin';
-    src: url(/Fonts/HelveticaNowText-Thin.otf)
+    src: url(Fonts/HelveticaNowText-Thin.otf)
 }
 
 nav ul{
